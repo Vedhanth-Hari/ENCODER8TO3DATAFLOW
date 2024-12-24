@@ -64,7 +64,8 @@ Developed by:H.Vedhanth RegisterNumber:24003775
 
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
 
-![Uploading Screenshot 2024-12-24 212047.png…]()
+![Screenshot 2024-12-24 212047](https://github.com/user-attachments/assets/3e3d357b-2425-495b-a812-f0ab174345e1)
+
 
 **RESULTS**
 Thus the encoder 8 to 3 is designed and the truthtable is verified.
